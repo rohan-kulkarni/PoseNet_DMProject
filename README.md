@@ -1,2 +1,4 @@
-# PoseNet_DMProject
-Discrete Math Project
+Commands :-
+yarn 
+yarn build
+yarn watch
